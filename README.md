@@ -1,9 +1,10 @@
 # CarCar
-Team:
 
+https://user-images.githubusercontent.com/112150883/236429768-729a9398-f82b-4c72-a204-8b51096bfe4d.mp4
+
+Team:
 * Lee Seaver - Service Microservice
 * Adrian Ma - Sales Microservice
----
 ---
 ## Setup Intructions
 
