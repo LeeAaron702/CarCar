@@ -1,6 +1,6 @@
 # CarCar
 
-https://user-images.githubusercontent.com/112150883/236430146-592b5d49-b962-43bb-8817-4dd6b2cb67cc.mp4
+![CarCar 4x](https://user-images.githubusercontent.com/112150883/236565064-ac042127-131f-42be-83a9-adfd36e5d992.gif)
 
 Team:
 * Lee Seaver - Service Microservice
